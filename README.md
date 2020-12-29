@@ -10,9 +10,9 @@ As an example, this repo shows how our tool can distinguish security discussions
 
 **Issues Example**
 
-* [The preview HTML of issue 303 from moleculer project](http://htmlpreview.github.io/?https://github.com/RezaeiNasab/SD_MSA/blob/main/Question%20on%20how%20to%20use%20this%20framework%20·%20Issue%20%23303%20·%20moleculerjs:moleculer.html) 
-* [The preview HTML of issue 72 from moleculer project](http://htmlpreview.github.io/?https://github.com/RezaeiNasab/SD_MSA/blob/main/AMQP%20Transporter%20by%20Nathan-Schwartz%20·%20Pull%20Request%20%2372%20·%20moleculerjs:moleculer.html)
-* [The preview HTML of issue 100 from moleculer project](http://htmlpreview.github.io/?https://github.com/RezaeiNasab/SD_MSA/blob/main/Wishlist%20·%20Issue%20%23100%20·%20moleculerjs:moleculer.html)
+* [The HTML preview of issue 303 from moleculer project](http://htmlpreview.github.io/?https://github.com/RezaeiNasab/SD_MSA/blob/main/Question%20on%20how%20to%20use%20this%20framework%20·%20Issue%20%23303%20·%20moleculerjs:moleculer.html) 
+* [The HTML preview of issue 72 from moleculer project](http://htmlpreview.github.io/?https://github.com/RezaeiNasab/SD_MSA/blob/main/AMQP%20Transporter%20by%20Nathan-Schwartz%20·%20Pull%20Request%20%2372%20·%20moleculerjs:moleculer.html)
+* [The HTML preview of issue 100 from moleculer project](http://htmlpreview.github.io/?https://github.com/RezaeiNasab/SD_MSA/blob/main/Wishlist%20·%20Issue%20%23100%20·%20moleculerjs:moleculer.html)
 
 
 ---
