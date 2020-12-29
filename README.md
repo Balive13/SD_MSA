@@ -8,7 +8,7 @@
 
 As an example, this repo shows how our tool can distinguish security discussions from non-security discussions in issue [303](https://github.com/moleculerjs/moleculer/issues/303), [72](https://github.com/moleculerjs/moleculer/issues/72) and [100](https://github.com/moleculerjs/moleculer/issues/100) from the [moleculer](https://github.com/moleculerjs/moleculer) project.
 
-**Example of Issues**
+**Example of Issues:**
 
 * [The HTML preview of issue 303 from moleculer project](http://htmlpreview.github.io/?https://github.com/RezaeiNasab/SD_MSA/blob/main/Question%20on%20how%20to%20use%20this%20framework%20·%20Issue%20%23303%20·%20moleculerjs:moleculer.html) 
 * [The HTML preview of issue 72 from moleculer project](http://htmlpreview.github.io/?https://github.com/RezaeiNasab/SD_MSA/blob/main/AMQP%20Transporter%20by%20Nathan-Schwartz%20·%20Pull%20Request%20%2372%20·%20moleculerjs:moleculer.html)
